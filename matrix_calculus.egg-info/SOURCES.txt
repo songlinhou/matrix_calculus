@@ -1,0 +1,11 @@
+README.md
+README.txt
+setup.cfg
+setup.py
+matrix_calculus/__init__.py
+matrix_calculus/matrix_calculus.py
+matrix_calculus.egg-info/PKG-INFO
+matrix_calculus.egg-info/SOURCES.txt
+matrix_calculus.egg-info/dependency_links.txt
+matrix_calculus.egg-info/requires.txt
+matrix_calculus.egg-info/top_level.txt

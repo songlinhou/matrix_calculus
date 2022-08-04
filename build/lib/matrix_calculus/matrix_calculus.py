@@ -1,3 +1,4 @@
+%%writefile matrix_calculus.py
 ########################################################################
 # Matrix Calculus
 # This library is based on the online tool http://www.matrixcalculus.org/
