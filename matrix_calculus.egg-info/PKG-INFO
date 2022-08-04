@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: matrix-calculus
-Version: 0.0.6
+Version: 0.0.7
 Summary: Use python to take derivative of matrix equations!
 Home-page: https://github.com/songlinhou/matrix_calculus
 Author: Ray Hou (Songlin Hou)

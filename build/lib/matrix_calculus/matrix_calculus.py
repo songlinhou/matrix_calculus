@@ -522,7 +522,7 @@ def diff(expr, wrt_var, var_list, return_tex=False):
         return tex
     try:
         if not return_tex:
-            from IPython.display import Math, HTML
+            from IPython.display import Math, HTML, display
             display(HTML("<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/"
                           "latest.js?config=default'></script>"))
             out = Math(tex)
