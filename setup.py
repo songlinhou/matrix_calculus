@@ -10,7 +10,7 @@ with codecs.open(os.path.join(here, "README.md"), encoding='utf-8') as fh:
 setup(
   name = 'matrix_calculus',
   packages = find_packages(),
-  version = '0.0.5',
+  version = '0.0.6',
   description = 'Use python to take derivative of matrix equations!',
   long_description_content_type="text/markdown",
   long_description=long_desc,
